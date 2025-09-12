@@ -3,7 +3,7 @@
 ! class 选择器 .
 ! id 选择器 #
 
-！ 全局
+! 全局
 ##.ads
 ##.ads-ss
 ##.add-panel
@@ -17,7 +17,7 @@ google.com##.gb_a
 google.com##.gb_dd
 google.com##.logo
 
-！icons8
+! icons8
 icons8.com##.by-sell-ads-large
 
 ! bilibili
@@ -49,6 +49,15 @@ blog.csdn.net##.passport-auto-tip-login-container
 blog.csdn.net##.passport-container
 blog.csdn.net##.passport-container-mini
 blog.csdn.net##.passport-login-container
+||blog.csdn.net/cdn_cgi_bs_bot/static/fingerprintjs-botd-v1.js
+||blog.csdn.net/cdn_cgi_bs_bot/static/fingerprintjs-v3.js
+||csdnimg.cn/release/blogv2/dist/components/js/edit_copy_code-*.min.js
+||g.csdnimg.cn/lib/qrcode/*/qrcode.min.js
+||g.csdnimg.cn/baidu-search/*/baidu-search.js
+||g.csdnimg.cn/common/csdn-report/report.js
+||g.csdnimg.cn/copyright/*/copyright.js
+||g.csdnimg.cn/??fixed-sidebar/*/fixed-sidebar.js
+||mp-activity.csdn.net/activity/report
 
 ! douban
 ||img1.doubanio.com^*/douban-ad-helper*

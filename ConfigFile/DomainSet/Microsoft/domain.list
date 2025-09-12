@@ -1,6 +1,8 @@
 .1drv.com
 .1drv.ms
 .akamaized.net
+.azureedge.net
+.azurefd.net
 .azurewebsites.net
 .bing.com
 .bing.net
@@ -9,7 +11,9 @@
 .live.com
 .live.net
 .microsoft.com
+.microsoftapp.net
 .microsoftonline.com
+.microsoftpersonalcontent.com
 .microsofttranslator.com
 .msauth.net
 .msftauth.net
@@ -23,6 +27,7 @@
 .outlook.com
 .s-microsoft.com
 .sfx.ms
+.sharepointonline.com
 .skype.com
 .windows.com
 .windows.net

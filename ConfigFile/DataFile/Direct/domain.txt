@@ -28,6 +28,8 @@
 .alipayobjects.com
 .doh.pub
 .alipan.com
+.tbcache.com
+.tbcdn.cn
 
 ## Tencent
 .tencent.com

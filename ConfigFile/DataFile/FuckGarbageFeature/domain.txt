@@ -148,6 +148,7 @@ dns.brand.qbrand.com
 confinfo.map.qq.com
 jsapi.qq.com
 pubminishare-30161.picsz.qpic.cn
+hkextshort.weixin.qq.com
 
 
 
@@ -3875,8 +3876,7 @@ codepush.appcenter.ms
 .cuebiq.com
 .in.cuebiq.com
 .app.cdn.lookbookhq.com
-.logs.datadoghq.com
-.browser-http-intake.logs.datadoghq.com
+.datadoghq.com
 .app.pulsatehq.com
 .iteratehq.com
 .platform.iteratehq.com
@@ -7288,8 +7288,8 @@ mobile-data.onetrust.io
 tidal-privacy.my.onetrust.com
 .sdk.yiigle.com
 metrics.icloud.com
-
-.videotool.ossgw.alicdn.com
+.ossgw.alicdn.com
+# .videotool.ossgw.alicdn.com
 
 et.tanx.com
 api.meishesdk.com
@@ -7314,6 +7314,7 @@ brssp.ibreader.com
 .datagw-edge.alipay.com
 .loggw.alipay.com.cn
 .edgegw.alipay.com
+.amdc.alipay.com
 
 20000170l4s.my-imcloud.com
 collect.moomoo.com
@@ -7366,7 +7367,6 @@ bs2.yumchina.com
 
 .appsflyersdk.com
 download.csdn.net
-.browser-intake-datadoghq.com
 .chinaliftoff.io
 .mtgglobals.com
 .mintegral.net
@@ -7407,12 +7407,13 @@ ju.taobao.com
 eco.taobao.com
 openjmacs.m.taobao.com
 c-adash.m.taobao.com
-amdc.m.taobao.com
+.amdc.m.taobao.com
 global.click.taobao.com
 audid-api.taobao.com
 audid-api-sg.taobao.com
 click.tz.simba.taobao.com
 mclick.simba.taobao.com
+.h-adashx.ut.taobao.com
 adsz.wagbridge.taobao.alimama.com
 adsh.wagbridge.taobao.alimama.com
 adsh.wagbridge.tmall.alimama.com
@@ -7810,6 +7811,7 @@ pdns.dnspod.cn
 .suborbital.io
 .hsforms.com
 .map.qq.com
+#.lbs.map.qq.com
 .nstool.netease.com
 .qweather.com
 .immersivetranslate.com
@@ -7903,7 +7905,7 @@ iadsdk.qtlcdn.com.cdnmg.com
 .feelgrounded.com
 .ferreteriavidri.com
 .fdfc.io
-.adukwai.com
+
 .open.e.kuaishou.cn
 .xageyai.com
 .dalyai.com
@@ -8064,3 +8066,17 @@ dualstack-restios.amap.com
 .tyc9421.cn
 .qbox.me
 .itdog.cn
+.smtcdns.com
+socket.freebuf.com
+.zztfly.com
+.zztfly.com.bytexns.com
+.graph.facebook.com
+.adfilter.cn
+.hubcloud.com.cn
+.voiceads.cn
+.adn-plus.com.cn
+.adbiding.com
+.adx.pw
+.adkwai.com
+.kskwai.com
+.adxiuqia.com

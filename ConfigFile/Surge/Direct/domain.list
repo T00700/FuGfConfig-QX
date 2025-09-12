@@ -138,6 +138,8 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com,extended-matching
 DOMAIN-SUFFIX,sqlc.dev,extended-matching
 DOMAIN-SUFFIX,taobao.com,extended-matching
 DOMAIN-SUFFIX,taobaocdn.com,extended-matching
+DOMAIN-SUFFIX,tbcache.com,extended-matching
+DOMAIN-SUFFIX,tbcdn.cn,extended-matching
 DOMAIN-SUFFIX,tencent.com,extended-matching
 DOMAIN-SUFFIX,tmall.com,extended-matching
 DOMAIN-SUFFIX,tmall.hk,extended-matching
