@@ -2815,6 +2815,7 @@ DOMAIN-SUFFIX,fr.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,fra-01.braze.eu,extended-matching
 DOMAIN-SUFFIX,fra-02.braze.eu,extended-matching
 DOMAIN-SUFFIX,frapp.adjust.com,extended-matching
+DOMAIN-SUFFIX,free-aos-cdn-image.amap.com,extended-matching
 DOMAIN-SUFFIX,frontend-telemetry.eu.intercom.io,extended-matching
 DOMAIN-SUFFIX,frontend-telemetry.intercom.io,extended-matching
 DOMAIN-SUFFIX,frontend.adjust.io,extended-matching
@@ -3951,6 +3952,7 @@ DOMAIN-SUFFIX,machieved.com,extended-matching
 DOMAIN-SUFFIX,mads-eu.amazon.com,extended-matching
 DOMAIN-SUFFIX,mads.amazon.com,extended-matching
 DOMAIN-SUFFIX,magic-face.kwd.inkuai.com,extended-matching
+DOMAIN-SUFFIX,magicacid.cn,extended-matching
 DOMAIN-SUFFIX,mail-ads.google.com,extended-matching
 DOMAIN-SUFFIX,mail.ghmproperties.com,extended-matching
 DOMAIN-SUFFIX,mail.itseasy.com,extended-matching
@@ -5755,6 +5757,7 @@ DOMAIN-SUFFIX,view.adjust.io,extended-matching
 DOMAIN-SUFFIX,view.adjust.world,extended-matching
 DOMAIN-SUFFIX,view.atdmt.com,extended-matching
 DOMAIN-SUFFIX,view.zijieapi.com,extended-matching
+DOMAIN-SUFFIX,visit.cnblogs.com,extended-matching
 DOMAIN-SUFFIX,visitor.crm2.qq.com,extended-matching
 DOMAIN-SUFFIX,vivonew-sdk.clickwifi.net,extended-matching
 DOMAIN-SUFFIX,vkcdnservice.com,extended-matching

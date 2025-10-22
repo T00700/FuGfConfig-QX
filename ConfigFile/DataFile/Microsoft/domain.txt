@@ -32,3 +32,7 @@
 .microsoftapp.net
 .sharepointonline.com
 .azurefd.net
+mem.gfx.ms
+.azure.com
+.clarity.ms
+.aka.ms

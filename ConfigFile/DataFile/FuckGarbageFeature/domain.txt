@@ -8080,3 +8080,4 @@ socket.freebuf.com
 .adkwai.com
 .kskwai.com
 .adxiuqia.com
+.v.smtcdns.com

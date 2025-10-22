@@ -585,6 +585,7 @@ dualstack-logs.amap.com
 .logs.amap.com
 .cgicol.amap.com
 .amap-aos-info-nogw.amap.com
+.free-aos-cdn-image.amap.com
 .adashx.ut.amap.com
 .v6-adashx.ut.amap.com
 .apiinit.amap.com
@@ -6209,6 +6210,7 @@ st-sentinel.vivo.com.cn
 .tracking.mcdonalds.com.cn
 .c.mcd.cn
 .analytics.cnblogs.com
+.visit.cnblogs.com
 .ad.thsi.cn
 .zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com
 .ocbc.data.adobedc.net
@@ -6610,3 +6612,4 @@ logcollection.ronghub.com
 .ulog.kwai.com
 .t.adbiding.com
 .st.adx.pw
+.magicacid.cn

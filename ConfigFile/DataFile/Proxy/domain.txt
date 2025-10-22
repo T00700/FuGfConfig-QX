@@ -397,6 +397,7 @@ onedrive.live.com
 .polyfill.io
 .gpgtools.org
 .raycast.com
+.raycast-releases.com
 raycast-store-extensions.s3-accelerate.amazonaws.com
 .jquery.com
 .adguard.com

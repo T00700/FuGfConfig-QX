@@ -40,6 +40,7 @@
 .myqcloud.com
 .qzone.com
 .qzoneapp.com
+.smtcdns.com
 
 ## 阿里云盘资源搜索
 alipanso.com
@@ -211,3 +212,4 @@ test-ipv6.com
 .qtlcdn.com.cdnmg.com
 .csair.com
 .qtlcdn.com
+.lmstudio.ai

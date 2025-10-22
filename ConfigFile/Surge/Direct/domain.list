@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,kugou.com,extended-matching
 DOMAIN-SUFFIX,linux.do,extended-matching
 DOMAIN-SUFFIX,liveperson.net,extended-matching
 DOMAIN-SUFFIX,lizhi.io,extended-matching
+DOMAIN-SUFFIX,lmstudio.ai,extended-matching
 DOMAIN-SUFFIX,lofter.com,extended-matching
 DOMAIN-SUFFIX,lpsnmedia.net,extended-matching
 DOMAIN-SUFFIX,maven.org,extended-matching
@@ -133,6 +134,7 @@ DOMAIN-SUFFIX,saxyit.com,extended-matching
 DOMAIN-SUFFIX,sharpmobi.com,extended-matching
 DOMAIN-SUFFIX,sinaimg.com,extended-matching
 DOMAIN-SUFFIX,smms.app,extended-matching
+DOMAIN-SUFFIX,smtcdns.com,extended-matching
 DOMAIN-SUFFIX,sony.com,extended-matching
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com,extended-matching
 DOMAIN-SUFFIX,sqlc.dev,extended-matching
