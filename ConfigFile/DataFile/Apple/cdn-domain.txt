@@ -38,3 +38,4 @@ app-site-association.cdn-apple.com
 .origin-apple.com.akadns.net
 .idms-apple.com.akadns.net
 .ls-apple.com.akadns.net
+.ess-apple.com.akadns.net

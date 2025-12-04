@@ -7241,7 +7241,7 @@ volcengine.manmanbuy.com
 xinchacha2dv.ocsp-certum.com
 aid.m.taobao.com
 api.map.baidu.com
-
+comate.baidu.com
 apapia-search-weblogic.manmanbuy.com
 tdsdk.xdrig.com
 .track.midway.run
@@ -8081,3 +8081,18 @@ socket.freebuf.com
 .kskwai.com
 .adxiuqia.com
 .v.smtcdns.com
+.x7i0.com
+.fleraprt.com
+.flerap.com
+.rmtag.com
+.rtmark.net
+.doodoaru.net
+.dooloust.net
+.doopimim.net
+.doostozoa.net
+.dootigeeteethoa.net
+.dortmark.net
+.dositsil.net
+.dosukoudo.net
+.cgatgpt.net
+.gotocdn.com

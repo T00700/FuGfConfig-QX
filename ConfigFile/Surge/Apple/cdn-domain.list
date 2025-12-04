@@ -26,4 +26,5 @@ DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com.cdnmg.com,extended-matching
 DOMAIN-SUFFIX,ls-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,mzstatic.com,extended-matching
 DOMAIN-SUFFIX,origin-apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,ess-apple.com.akadns.net,extended-matching
 USER-AGENT,com.apple.appstored*

@@ -28,6 +28,7 @@
 .thegithubshop.com
 .gitbook.com
 .gitbook.io
+.gitbooks.io
 .gitbook.zendesk.com
 .exp-tas.com
 

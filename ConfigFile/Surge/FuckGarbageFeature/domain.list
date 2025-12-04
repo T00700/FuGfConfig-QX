@@ -69,6 +69,7 @@ DOMAIN,cloud.cpatrk.net,extended-matching
 DOMAIN,codepush.appcenter.ms,extended-matching
 DOMAIN,collect.moomoo.com,extended-matching
 DOMAIN,collect.sg.moomoo.com,extended-matching
+DOMAIN,comate.baidu.com,extended-matching
 DOMAIN,conf.lebo.cn,extended-matching
 DOMAIN,confinfo.map.qq.com,extended-matching
 DOMAIN,creative.meishesdk.com,extended-matching
@@ -2611,6 +2612,7 @@ DOMAIN-SUFFIX,cfg.adxcel-ec2.com,extended-matching
 DOMAIN-SUFFIX,cfg.flurry.com,extended-matching
 DOMAIN-SUFFIX,cfimage.moengage.com,extended-matching
 DOMAIN-SUFFIX,cfogc.com,extended-matching
+DOMAIN-SUFFIX,cgatgpt.net,extended-matching
 DOMAIN-SUFFIX,cgi.connect.qq.com,extended-matching
 DOMAIN-SUFFIX,cguke-9h64o.ads.tremorhub.com,extended-matching
 DOMAIN-SUFFIX,ch-gmtdmp.mookie1.com,extended-matching
@@ -3210,7 +3212,15 @@ DOMAIN-SUFFIX,dnm.scloud.lfengmobile.com,extended-matching
 DOMAIN-SUFFIX,dns.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,dnslog.cn,extended-matching
 DOMAIN-SUFFIX,dojo.phluant.com,extended-matching
+DOMAIN-SUFFIX,doodoaru.net,extended-matching
+DOMAIN-SUFFIX,dooloust.net,extended-matching
+DOMAIN-SUFFIX,doopimim.net,extended-matching
+DOMAIN-SUFFIX,doostozoa.net,extended-matching
+DOMAIN-SUFFIX,dootigeeteethoa.net,extended-matching
 DOMAIN-SUFFIX,dopemobi.offerstrack.net,extended-matching
+DOMAIN-SUFFIX,dortmark.net,extended-matching
+DOMAIN-SUFFIX,dositsil.net,extended-matching
+DOMAIN-SUFFIX,dosukoudo.net,extended-matching
 DOMAIN-SUFFIX,dotomi.weighted.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,doubleclick.net,extended-matching
 DOMAIN-SUFFIX,doubleverify.com,extended-matching
@@ -3590,6 +3600,8 @@ DOMAIN-SUFFIX,flapi1.rubiconproject.com,extended-matching
 DOMAIN-SUFFIX,flapi2.rubiconproject.com,extended-matching
 DOMAIN-SUFFIX,flashtalking.com,extended-matching
 DOMAIN-SUFFIX,flashtalking.com.edgekey.net,extended-matching
+DOMAIN-SUFFIX,flerap.com,extended-matching
+DOMAIN-SUFFIX,fleraprt.com,extended-matching
 DOMAIN-SUFFIX,fls-na.amazon.com,extended-matching
 DOMAIN-SUFFIX,flurry.com,extended-matching
 DOMAIN-SUFFIX,fm.duokanbox.com,extended-matching
@@ -3832,6 +3844,7 @@ DOMAIN-SUFFIX,gop1.co,extended-matching
 DOMAIN-SUFFIX,goredi.com,extended-matching
 DOMAIN-SUFFIX,gota.tpbid.com,extended-matching
 DOMAIN-SUFFIX,goto-target-com.customtraffic.impactradius.com,extended-matching
+DOMAIN-SUFFIX,gotocdn.com,extended-matching
 DOMAIN-SUFFIX,gotoip55.com,extended-matching
 DOMAIN-SUFFIX,gotu.tpbid.com,extended-matching
 DOMAIN-SUFFIX,gov.aniview.com,extended-matching
@@ -5900,6 +5913,7 @@ DOMAIN-SUFFIX,rm.aarki.net,extended-matching
 DOMAIN-SUFFIX,rm.recs.richrelevance.com,extended-matching
 DOMAIN-SUFFIX,rmhfrtnd.com,extended-matching
 DOMAIN-SUFFIX,rmonitor.ga.com,extended-matching
+DOMAIN-SUFFIX,rmtag.com,extended-matching
 DOMAIN-SUFFIX,ro-gmtdmp.mookie1.com,extended-matching
 DOMAIN-SUFFIX,rodeoconfig.yodo1api.com,extended-matching
 DOMAIN-SUFFIX,roimedia.advertserve.com,extended-matching
@@ -5955,6 +5969,7 @@ DOMAIN-SUFFIX,rtb0.doubleverify.com,extended-matching
 DOMAIN-SUFFIX,rtb2.doubleverify.com,extended-matching
 DOMAIN-SUFFIX,rtbcdn.doubleverify.com,extended-matching
 DOMAIN-SUFFIX,rtd.tubemogul.com,extended-matching
+DOMAIN-SUFFIX,rtmark.net,extended-matching
 DOMAIN-SUFFIX,rtp-static.marketo.com,extended-matching
 DOMAIN-SUFFIX,rtr.innovid.com,extended-matching
 DOMAIN-SUFFIX,rtr.innovid.com.akadns.net,extended-matching
@@ -7802,6 +7817,7 @@ DOMAIN-SUFFIX,x.disq.us,extended-matching
 DOMAIN-SUFFIX,x.dlx.addthis.com,extended-matching
 DOMAIN-SUFFIX,x.skimresources.com,extended-matching
 DOMAIN-SUFFIX,x2.mookie1.com,extended-matching
+DOMAIN-SUFFIX,x7i0.com,extended-matching
 DOMAIN-SUFFIX,xad.com,extended-matching
 DOMAIN-SUFFIX,xageyai.com,extended-matching
 DOMAIN-SUFFIX,xaogi.com,extended-matching

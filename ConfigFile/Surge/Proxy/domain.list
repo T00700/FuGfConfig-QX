@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,git.io,extended-matching
 DOMAIN-SUFFIX,gitbook.com,extended-matching
 DOMAIN-SUFFIX,gitbook.io,extended-matching
 DOMAIN-SUFFIX,gitbook.zendesk.com,extended-matching
+DOMAIN-SUFFIX,gitbooks.io,extended-matching
 DOMAIN-SUFFIX,gitea.com,extended-matching
 DOMAIN-SUFFIX,gitea.io,extended-matching
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,extended-matching

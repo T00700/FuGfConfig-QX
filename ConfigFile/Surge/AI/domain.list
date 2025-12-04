@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,chatgpt.com,extended-matching
 DOMAIN-SUFFIX,claude.ai,extended-matching
 DOMAIN-SUFFIX,claudeusercontent.com,extended-matching
 DOMAIN-SUFFIX,githubcopilot.com,extended-matching
+DOMAIN-SUFFIX,grok.com,extended-matching
 DOMAIN-SUFFIX,groq.com,extended-matching
 DOMAIN-SUFFIX,intercom.io,extended-matching
 DOMAIN-SUFFIX,intercomcdn.com,extended-matching

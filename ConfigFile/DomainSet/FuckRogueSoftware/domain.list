@@ -144,7 +144,10 @@ amos.alicdn.com
 analy.qq.com
 analytics.126.net.w.cdngslb.com
 analytics.95516.com
+analytics.plex.tv
+analytics.thingx.tv
 analytics.umetrip.com
+analytics.vhx.tv
 android.push.126.net
 androidrqd.iot.wechatpay.cn
 anony-auth.hismarttv.com
@@ -285,6 +288,7 @@ cn.hz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 cn.zb.v4.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 cobrowse.oraclecloud.com
 col.eum-appdynamics.com
+collector.vhx.tv
 com-apache-alpha-wxopen-learning-12.lb.1.oppo.cn
 com-apache-i-topic-control-learning-12.lb.1.oppo.cn
 com-apache-i-topic-control-learning-12eng.lb.1.oppo.cn
@@ -552,8 +556,11 @@ material.istreamsche.com
 mauth.chinanetcenter.com
 mbs.boc.cn
 mercury.jd.com
+metric.vhx.tv
 metrics.data.hicloud.com
 metrics.dt.hicloud.com
+metrics.plex.tv
+metrics.vhx.tv
 mf.atm.youku.com
 mims.icbc.com.cn
 mimscmp.icbc.com.cn
@@ -789,11 +796,13 @@ tpns.qq.com
 track.cupid.iqiyi.com
 track.cupid.qiyi.com
 track.uc.cn
+track.vhx.tv
 tracker.baidu.com
 tracker.sns.iqiyi.com
 tracking.india.miui.com
 tracking.intl.miui.com
 tracking.rus.miui.com
+tracking.vhx.tv
 tui.taobao.com
 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 tvupgrade.yunos.com
@@ -1611,6 +1620,7 @@ zxid-m.mobileservice.cn
 .api.browser.miui.com
 .api.browsermine.com
 .api.brs.intl.miui.com
+.api.cgatgpt.net
 .api.collect.data.intl.miui.com
 .api.cortana.ai
 .api.cr-relay.com
@@ -1671,6 +1681,7 @@ zxid-m.mobileservice.cn
 .apidns.kwd.inkuai.com
 .apiinit.amap.com
 .apissug-sf.ucweb.com
+.apkevery.com
 .apm-a.pinduoduo.com
 .apm-log-upload-os.hoyoverse.com
 .apm-log-upload-v6.mihoyo.com
@@ -2109,6 +2120,7 @@ zxid-m.mobileservice.cn
 .clck.yandex.com
 .clck.yandex.ru
 .cleaner.baidu.com
+.cleanmasters.store
 .clgserv.pro
 .click.aliyun.com
 .click.bes.baidu.com
@@ -2401,6 +2413,7 @@ zxid-m.mobileservice.cn
 .demo.appsflyer.com
 .demo.shuzilm.cn
 .depttake.ga
+.dergoodting.com
 .designapp.adjust.com
 .detail.taobao.com
 .detect.getui.com
@@ -2629,6 +2642,7 @@ zxid-m.mobileservice.cn
 .expeva.store.qq.com
 .ext.baidu.com
 .extension.getui.com
+.extensionplay.com
 .extlog.snssdk.com
 .eyeu.snssdk.com
 .eyew.umeng.com
@@ -4745,6 +4759,8 @@ zxid-m.mobileservice.cn
 .ruapp.adjust.com
 .rubiconproject.com.edgekey.net
 .rusvax.adjust.com
+.s-82923.gotocdn.com
+.s-85283.gotocdn.com
 .s-gm.mmstat.com
 .s-gt.getui.com
 .s-mic-oss.mob.com
@@ -5879,6 +5895,7 @@ zxid-m.mobileservice.cn
 .yap.yahoo.com
 .ybp.yahoo.com
 .yeah.qq.com
+.yearnnewtab.com
 .yingxiao.baidu.com
 .yk-ssp-ad.cp31.ott.cibntv.net
 .ykugc.cp31.ott.cibntv.net

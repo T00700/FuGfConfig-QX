@@ -69,6 +69,7 @@ DOMAIN,cloud.cpatrk.net
 DOMAIN,codepush.appcenter.ms
 DOMAIN,collect.moomoo.com
 DOMAIN,collect.sg.moomoo.com
+DOMAIN,comate.baidu.com
 DOMAIN,conf.lebo.cn
 DOMAIN,confinfo.map.qq.com
 DOMAIN,creative.meishesdk.com
@@ -2611,6 +2612,7 @@ DOMAIN-SUFFIX,cfg.adxcel-ec2.com
 DOMAIN-SUFFIX,cfg.flurry.com
 DOMAIN-SUFFIX,cfimage.moengage.com
 DOMAIN-SUFFIX,cfogc.com
+DOMAIN-SUFFIX,cgatgpt.net
 DOMAIN-SUFFIX,cgi.connect.qq.com
 DOMAIN-SUFFIX,cguke-9h64o.ads.tremorhub.com
 DOMAIN-SUFFIX,ch-gmtdmp.mookie1.com
@@ -3210,7 +3212,15 @@ DOMAIN-SUFFIX,dnm.scloud.lfengmobile.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,dnslog.cn
 DOMAIN-SUFFIX,dojo.phluant.com
+DOMAIN-SUFFIX,doodoaru.net
+DOMAIN-SUFFIX,dooloust.net
+DOMAIN-SUFFIX,doopimim.net
+DOMAIN-SUFFIX,doostozoa.net
+DOMAIN-SUFFIX,dootigeeteethoa.net
 DOMAIN-SUFFIX,dopemobi.offerstrack.net
+DOMAIN-SUFFIX,dortmark.net
+DOMAIN-SUFFIX,dositsil.net
+DOMAIN-SUFFIX,dosukoudo.net
 DOMAIN-SUFFIX,dotomi.weighted.com.akadns.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleverify.com
@@ -3590,6 +3600,8 @@ DOMAIN-SUFFIX,flapi1.rubiconproject.com
 DOMAIN-SUFFIX,flapi2.rubiconproject.com
 DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,flashtalking.com.edgekey.net
+DOMAIN-SUFFIX,flerap.com
+DOMAIN-SUFFIX,fleraprt.com
 DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,fm.duokanbox.com
@@ -3832,6 +3844,7 @@ DOMAIN-SUFFIX,gop1.co
 DOMAIN-SUFFIX,goredi.com
 DOMAIN-SUFFIX,gota.tpbid.com
 DOMAIN-SUFFIX,goto-target-com.customtraffic.impactradius.com
+DOMAIN-SUFFIX,gotocdn.com
 DOMAIN-SUFFIX,gotoip55.com
 DOMAIN-SUFFIX,gotu.tpbid.com
 DOMAIN-SUFFIX,gov.aniview.com
@@ -5900,6 +5913,7 @@ DOMAIN-SUFFIX,rm.aarki.net
 DOMAIN-SUFFIX,rm.recs.richrelevance.com
 DOMAIN-SUFFIX,rmhfrtnd.com
 DOMAIN-SUFFIX,rmonitor.ga.com
+DOMAIN-SUFFIX,rmtag.com
 DOMAIN-SUFFIX,ro-gmtdmp.mookie1.com
 DOMAIN-SUFFIX,rodeoconfig.yodo1api.com
 DOMAIN-SUFFIX,roimedia.advertserve.com
@@ -5955,6 +5969,7 @@ DOMAIN-SUFFIX,rtb0.doubleverify.com
 DOMAIN-SUFFIX,rtb2.doubleverify.com
 DOMAIN-SUFFIX,rtbcdn.doubleverify.com
 DOMAIN-SUFFIX,rtd.tubemogul.com
+DOMAIN-SUFFIX,rtmark.net
 DOMAIN-SUFFIX,rtp-static.marketo.com
 DOMAIN-SUFFIX,rtr.innovid.com
 DOMAIN-SUFFIX,rtr.innovid.com.akadns.net
@@ -7802,6 +7817,7 @@ DOMAIN-SUFFIX,x.disq.us
 DOMAIN-SUFFIX,x.dlx.addthis.com
 DOMAIN-SUFFIX,x.skimresources.com
 DOMAIN-SUFFIX,x2.mookie1.com
+DOMAIN-SUFFIX,x7i0.com
 DOMAIN-SUFFIX,xad.com
 DOMAIN-SUFFIX,xageyai.com
 DOMAIN-SUFFIX,xaogi.com
