@@ -24,6 +24,10 @@ icons8.com##.by-sell-ads-large
 t.bilibili.com##.bili-dyn-ads
 t.bilibili.com##.bili-dyn-banner
 t.bilibili.com##.bili-dyn-version-control
+t.bilibili.com##.sticky
+t.bilibili.com##.bili-dyn-banner
+t.bilibili.com##.bg
+t.bilibili.com##.bgc
 bilibili.com##.ad-report
 bilibili.com##.header-channel
 bilibili.com##.carousel-transform
@@ -31,33 +35,19 @@ bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger
 bilibili.com##.trial-feed-wrap
 live.bilibili.com##.flip-view
-
-! csdn
-blog.csdn.net###asideNewNps
-blog.csdn.net###asideWriteGuide
-blog.csdn.net###asideProfile
-blog.csdn.net###remuneration
-blog.csdn.net###csdn-toolbar
-blog.csdn.net##.csdn-side-toolbar
-blog.csdn.net##.recommend-right
-blog.csdn.net##.recommend-nps-box
-blog.csdn.net##.recommend-box
-blog.csdn.net##.blog_container_aside
-blog.csdn.net##.passport-login-mark
-blog.csdn.net##.passport-login-tip-container
-blog.csdn.net##.passport-auto-tip-login-container
-blog.csdn.net##.passport-container
-blog.csdn.net##.passport-container-mini
-blog.csdn.net##.passport-login-container
-||blog.csdn.net/cdn_cgi_bs_bot/static/fingerprintjs-botd-v1.js
-||blog.csdn.net/cdn_cgi_bs_bot/static/fingerprintjs-v3.js
-||csdnimg.cn/release/blogv2/dist/components/js/edit_copy_code-*.min.js
-||g.csdnimg.cn/lib/qrcode/*/qrcode.min.js
-||g.csdnimg.cn/baidu-search/*/baidu-search.js
-||g.csdnimg.cn/common/csdn-report/report.js
-||g.csdnimg.cn/copyright/*/copyright.js
-||g.csdnimg.cn/??fixed-sidebar/*/fixed-sidebar.js
-||mp-activity.csdn.net/activity/report
+live.bilibili.com##..item-wrapper
+www.bilibili.com###slide_ad
+www.bilibili.com##.slide-ad-exp
+www.bilibili.com##.ad-report
+www.bilibili.com##.ad-floor-exp
+www.bilibili.com###wxwork-share-pic
+||api.bilibili.com/x/click-interface/web/heartbeat
+||api.bilibili.com/x/web-frontend/data/(report|collector)
+||i0.hdslb.com/bfs/polaris_web_conf/polaris/webcnf/event.cnf
+||s1.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/(log-reporter.js|event-tracker.js|error-tracker.js)
+||s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js
+||hdslb.com/*user-fingerprint*$script
+||data.bilibili.com^
 
 ! douban
 ||img1.doubanio.com^*/douban-ad-helper*
@@ -123,6 +113,9 @@ tool.oschina.net##.ad-wrap
 juejin.cn##.wechat-ad
 www.jianshu.com##._3Pnjry
 tanstack.com##div > .sticky.max-h-screen.overflow-y-auto
+||cdn.dancf.com/fe-assets/cowtransfer-ad/js/wallpaper.js
+||cdn.dancf.com/fe-assets/20220419/cowtransfer-front/public/static/js/webfont.js
+||cowtransfer.com/api/generic/backgrounds
 ||dn-growing.qbox.me/vds.js
 ||assets.cnblogs.com/images/ghs.png
 ||accounts.google.com^$domain=linux.do
